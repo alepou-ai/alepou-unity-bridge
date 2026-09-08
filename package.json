@@ -1,0 +1,23 @@
+{
+  "name": "com.alepou.unity-bridge",
+  "version": "0.18.0",
+  "displayName": "Alepou Unity Bridge",
+  "description": "Connects AI coding sessions to Unity through exported Editor state, durable workflows, and locally approved typed commands.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Alepou",
+    "url": "https://alepou.ai"
+  },
+  "documentationUrl": "https://github.com/alepou-ai/alepou-unity-bridge#readme",
+  "changelogUrl": "https://github.com/alepou-ai/alepou-unity-bridge/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/alepou-ai/alepou-unity-bridge/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.unity.test-framework": "1.1.33"
+  },
+  "keywords": [
+    "alepou",
+    "ai",
+    "editor",
+    "bridge"
+  ]
+}
